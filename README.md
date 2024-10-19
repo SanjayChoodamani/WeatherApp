@@ -43,7 +43,7 @@ weather-monitoring/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/SanjayChoodamani/WeatherApp
 cd weather-monitoring
 ```
 
@@ -175,5 +175,5 @@ Common issues and solutions:
    - Check browser console for any errors
    - Clear localStorage if data becomes corrupted
 
-
+Made with ❤️ by Sanjay B S
 
